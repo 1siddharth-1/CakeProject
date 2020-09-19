@@ -124,7 +124,7 @@ p {
 }
 
 .color-overlay {
-    background-color: rgba(11, 57, 72, 0.8);
+    background-color: rgba(11, 57, 72, 0.6);
     height: 600px;
     width: 100%;
     position: absolute;
